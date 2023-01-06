@@ -1,0 +1,93 @@
+/* styles.css */
+
+
+.title {
+    marin: auto;
+    width:50%;
+    border: 3px solid #73ad21;
+    padding: 5px;
+    color: darkgray;
+    background-color: white;
+    text-align: center;
+    text-transform: lowercase;
+    text-shadow: 2px 2px;
+} 
+#recipes {
+    marin: 20px;
+    width: 50%;
+    border: 3px solid #73ad21;
+    padding: 1px;
+    color: white;
+    background-color: yellow;
+    text-align: center;
+    border: 3px solid black
+} 
+.external {
+    font-size: 32px;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+.number {
+    background-color: rgb(214, 107, 125);
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif
+}
+#num2 {
+        color:blue;
+        font-size: 36px;
+        background-color: white;
+    }
+    
+    .num3 {
+        font-size: 24px;
+    }
+    #num4 {
+        background-color: rgb(156, 231, 86);
+        font-size: 24px;
+        ;}
+.clickme, .noclick {
+   
+    width: 10%;
+    font-size: 28px;
+    font-style: normal;
+    font-family: helvetica, 'Times New Roman', serif;
+    border-style: groove;
+    border-width: 2px;
+    border-color: grey
+}
+li {
+    display: inline;
+}
+.clickme {
+    background-color: black;
+    color: white;
+}
+.noclick {
+    background-color: yellow;
+    color: black
+}
+
+.avatar.proportion {
+width: 300px;
+}
+
+.avatar.distorted {
+   width: 200px;
+ height: 400px;
+}
+
+.ancestor .text {
+    color: red;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: yellow
+    
+}
+.text {
+    color: black;
+    background-color: white;
+}
